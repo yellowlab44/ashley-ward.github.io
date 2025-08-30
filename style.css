@@ -1,0 +1,9 @@
+h1 {
+    /* we have a potential problem , 
+    backup fonts if DynaPuff doesnt work are Arial and times new roman */
+    font-family: DynaPuff, Arial, "Times New Roman";
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}   
